@@ -1,0 +1,632 @@
+codigo,nombre,grupo,tecnologia,situacion,capacidad_mw,enficc_gwh_dia,oef_gwh_dia
+2QBW,EL POPAL,hidraulica_menor,hidraulica,en operación,19.9,0,0.2204756961
+2QRL,LA REBUSCA,hidraulica_menor,hidraulica,en operación,0.7,0,0.01554389516
+2QV2,BAJO TULUA,hidraulica_menor,hidraulica,en operación,21,0.000238,0.1109509277
+2R22,LAGUNETA,hidraulica_menor,hidraulica,en operación,18,0,0.1298243371
+2S6Q,AUTOG YAGUARITO 1,cogeneracion,biomasa,en operación,1.6,0,0.001507122581
+2S6S,AUTOG ARGOS YUMBO 1,termica,termica,en operación,9.9,0,0.141854129
+2S6U,AUTOG ARGOS EL CAIRO,hidraulica_menor,hidraulica,en operación,6.5,0,0.139632179
+2S78,LA FRISOLERA,hidraulica_menor,hidraulica,en operación,0.47,0,0.005516690323
+2S8I,AUTOG REFICAR 1,termica,termica,en operación,19.9,0,0.04205020129
+2S8N,GUAVIO MENOR,hidraulica_menor,hidraulica,en operación,9.9,0,0.01200484194
+2S8S,DOÑA JUANA,cogeneracion,biomasa,en operación,1.7,0.114,0.03672017419
+2S8U,PORCE III MENOR,hidraulica_menor,hidraulica,en operación,1.8,0.007387,0.03754026065
+2S9L,EL COCUYO,hidraulica_menor,hidraulica,en operación,0.7,0,0.00393490871
+2S9Q,TEQUENDAMA BIOGAS,cogeneracion,biomasa,en operación,2.25,0,0
+2SDR,ALEJANDRIA,hidraulica_menor,hidraulica,en operación,17,0,0.1792657613
+2SI1,MORRO AZUL,hidraulica_menor,hidraulica,en operación,19.9,0,0.1922841935
+2SS2,MAGALLO,hidraulica_menor,hidraulica,en operación,5.7,0.12996,0.03879401935
+2SW1,EL EDEN,hidraulica_menor,hidraulica,en operación,19.9,0.04585,0.08891495355
+2SXQ,BIOENERGY,cogeneracion,biomasa,en operación,19.9,0,1.258064516e-08
+2T1L,EL MOLINO,hidraulica_menor,hidraulica,en operación,19.9,0,0.1877756471
+2T4P,SAN MATIAS,hidraulica_menor,hidraulica,en operación,19.9,0,0.1988908355
+2T7D,AUTOG CANTAYUS,hidraulica_menor,hidraulica,en operación,4.32,0,0.01405254065
+2TUT,LUZMA I,hidraulica_menor,hidraulica,en operación,19.6,0,0.3321604055
+2TUV,LUZMA II,hidraulica_menor,hidraulica,en operación,19.6,0,0.3245903858
+2TYI,AUTOG CELSIA SOLAR YUMBO,solar,solar,en pruebas,9.8,0,0.01167193548
+2U1G,LAS PALMAS,hidraulica_menor,hidraulica,en operación,2.8,0.02352,0.0344992471
+2U5P,PROENCA II 1,termica,termica,en operación,17,0,0
+2U8Y,TERMOMECHERO 5,termica,termica,en operación,19.3,0,0
+2U91,TERMOMECHERO 6,termica,termica,en operación,19.3,0,0
+2U93,TERMOMECHERO 4,termica,termica,en operación,19.3,0,0
+2UP2,COGENERADOR MANUELITA 2,cogeneracion,biomasa,en operación,12,0,0.1541395742
+2UPD,TEQUENDAMA 2,hidraulica_menor,hidraulica,en operación,14.2,0,0.1074111894
+2UPF,TEQUENDAMA 3,hidraulica_menor,hidraulica,en operación,14.2,0,0.1113809771
+2UPH,TEQUENDAMA 4,hidraulica_menor,hidraulica,en operación,14.2,0,0.1075685939
+2UPJ,TEQUENDAMA 1,hidraulica_menor,hidraulica,en operación,14.2,0,0.1212190187
+2UR5,SAN JOSE DE LA MONTAÑA II,hidraulica_menor,hidraulica,en operación,1.1,0,0
+2UX3,AURES BAJO,hidraulica_menor,hidraulica,en operación,19.4,0,0.175883129
+2V25,AUTOG ARGOS SOGAMOSO 1,termica,termica,en operación,15,0,0.1209915645
+2V27,AUTOG COCA-COLA FEMSA 1,termica,termica,en operación,2.44,0,8.59e-06
+2V5G,JUAN GARCIA,hidraulica_menor,hidraulica,en operación,4.52,0,0.009204782258
+2VJS,CELSIA SOLAR BOLIVAR,solar,solar,en pruebas,8.06,0.038765,0.02174834323
+2WC5,MULATOS II,hidraulica_menor,hidraulica,en operación,7.34,0,0.03637533871
+2WFN,TERMOCAPACHOS 1,termica,termica,en operación,9.9,0,0.1481032903
+2XXR,AGPE - ECOPETROL LA HORMIGA,termica,termica,en operación,1,0,0.009226391935
+2YB9,AUTOG ECOPETROL ORITO,termica,termica,en pruebas,4,0,0.03168180613
+2YIR,PCH LA LIBERTAD,hidraulica_menor,hidraulica,en operación,1.2,0,0.00353291871
+2YNA,HIDROBARRANCAS,hidraulica_menor,hidraulica,en operación,4.7,0,0.02974484419
+2YWY,AUTOG TURGAS,termica,termica,en operación,3.5,0,0.0001276677419
+2ZCF,SAN ANDRES DE CUERQUIA,hidraulica_menor,hidraulica,en operación,22,0.103782,0.2656531535
+2ZHY,AUTOG CELSIA SOLAR ESPINAL,solar,solar,en pruebas,9.9,0,0.03841119032
+2ZP9,BOSQUES SOLARES DE LOS LLANOS I,solar,solar,en pruebas,19.9,0,0.1075343132
+3A44,PLANTA SOLAR BAYUNCA I,solar,solar,en pruebas,3,0,0.01191307742
+3ACC,CELSIA SOLAR CARMELO,solar,solar,en pruebas,9.9,0,0.01018101355
+3ADA,AUTOG PTAR BELLO,cogeneracion,biomasa,en operación,5,0,0.0007808367742
+3AFQ,POCUNE,hidraulica_menor,hidraulica,en operación,1,0.02328,0.01522950097
+3AQP,CAUYA,hidraulica_menor,hidraulica,en operación,1.51,0,0.004810846129
+3AXV,AGPE INGENIO DE OCCIDENTE,cogeneracion,biomasa,en operación,1,0,0.02068645806
+3B4L,GRANJA SOLAR BELMONTE,solar,solar,en pruebas,4.99,0,0.01620704871
+3BZB,CELSIA SOLAR LA PAILA,solar,solar,en pruebas,9.9,0,0.01711174581
+3C3X,AUTOG INGENIO MARIA LUISA 1,cogeneracion,biomasa,en operación,1.8,0,0.02564087226
+3C3Z,LA SIERPE,solar,solar,en pruebas,19.9,0,0.1092275268
+3C4V,AUTOG TERMOTAME,termica,termica,en operación,5,0,0.02291854839
+3CG9,LA CHORRERA,hidraulica_menor,hidraulica,en operación,15,0,0.1657879268
+3CSH,GY SOLAR AURORA,solar,solar,en pruebas,9.9,0,0.04937038645
+3DDT,LATAM SOLAR LA LOMA,solar,solar,en operación,150,0.893438,0.7533036012
+3DSO,HELIOS I,solar,solar,en pruebas,16,0,0.07535417032
+3E7C,AUTOG CELSIA SOLAR LEVAPAN,solar,solar,en pruebas,4.99,0,0.01640404806
+3E9I,ZEUS,hidraulica_menor,hidraulica,en operación,9.9,0.22572,0.1103688435
+3EBN,GR PARQUE SOLAR TUCANES,solar,solar,en pruebas,9.9,0.016251,0.04647470161
+3ED1,AUTOG GRAN COLOMBIA GOLD,hidraulica_menor,hidraulica,en operación,1,0,0
+3EDL,BOSQUES SOLARES DE LOS LLANOS V,solar,solar,en operación,17.9,0,0.1166015323
+3EE4,PARQUE EOLICO GUAJIRA I,eolica,eolica,en pruebas,19.9,0,0.2258704694
+3EFY,BOSQUES SOLARES DE LOS LLANOS IV,solar,solar,en operación,19.9,0,0.1281471561
+3ENA,TESORITO,termica,termica,en operación,200,4.495579,4.744604789
+3ENE,SINCE,solar,solar,en pruebas,18.5,0.016206,0.1015661584
+3EP6,AUTOG CELSIA SOLAR HARINAS,solar,solar,en pruebas,2.45,0,0.007325921935
+3EV1,LOS CABALLEROS,solar,solar,en pruebas,11.5,0.002162,0.04841131129
+3EV3,LA MEDINA,solar,solar,en pruebas,11.5,0.032171,0.04869574
+3EXB,CERRITOS,solar,solar,en pruebas,11.5,0.064365,0.05209802258
+3EXH,PARQUE EÓLICO WESP01,eolica,eolica,en pruebas,12,0,0.1605904858
+3F5L,AUTOG CI JEANS,solar,solar,en pruebas,1.392,0,0.002761363871
+3F5N,AUTOG PINTUCO,solar,solar,en pruebas,1.406,0,0.0002243354839
+3FCD,AUTOG CELSIA SOLAR PALMIRA 3,solar,solar,en pruebas,4.99,0,0.005345745484
+3FCF,GRANJA SOLAR LANCEROS,solar,solar,en pruebas,9.1,0.035227,0.05645601516
+3GFQ,AGPE FERCH2,solar,solar,en operación,0.00675,0,1.621741935e-05
+3GI6,GRANJA SOLAR EL SALADO,solar,solar,en operación,0.1,0,0.0005056883871
+3GJQ,TERMOTASAJERO DOS SOLAR,solar,solar,en pruebas,4,0.00839,0.01756346935
+3GJU,AUTOG INGENIO CARMELITA,cogeneracion,biomasa,en operación,4.99,0,0.1282548635
+3GPZ,MONTELIBANO,solar,solar,en pruebas,9.9,0.0364,0.04558449194
+3GRD,GRANJA SOLAR SAN FELIPE,solar,solar,en pruebas,9.1,0.012055,0.05503552226
+3GSF,AUTOG BUGA I GRASAS,solar,solar,en pruebas,4,0,0.01062571613
+3GVI,GRANJA SOLAR FLANDES,solar,solar,en pruebas,21.9,0.006734,0.1245318865
+3GVK,CELSIA SOLAR DULIMA,solar,solar,en pruebas,21.9,0.004346,0.1263267345
+3GVM,CELSIA SOLAR YUMA,solar,solar,en pruebas,9.1,0.011269,0.0600938029
+3HBN,TIERRA LINDA,solar,solar,en pruebas,9.9,0,0.04875563387
+3HBP,LA TOLUA,solar,solar,en pruebas,19.9,0,0.09854303
+3HDE,SAN BARTOLOME,hidraulica_menor,hidraulica,en operación,19.9,0,0.4438458381
+3HDG,OIBITA,hidraulica_menor,hidraulica,en operación,19.9,0,0.4418430719
+3HE8,AUTOG CELSIA SOLAR PALMIRA 3 ZONA FRANCA,solar,solar,en pruebas,2.9,0,0.003850548387
+3HF5,FUNDACION,solar,solar,en operación,100,0.648001,0.6154955716
+3HF7,CELSIA SOLAR LA VICTORIA II,solar,solar,en pruebas,21.9,0.002674,0.1110362613
+3HF9,CELSIA SOLAR LA VICTORIA I,solar,solar,en pruebas,21.9,0.001002,0.09577217806
+3HG7,COMUNIDAD EL SALVADOR I,solar,solar,en operación,0.0127,0,2.845290323e-05
+3HG9,COMUNIDAD EL SALVADOR II,solar,solar,en operación,0.0037,0,1.072709677e-05
+3HLD,LOS GIRASOLES,solar,solar,en pruebas,9.5,0,0.05116675548
+3HS9,AUTOG BUGA I SOLLA,solar,solar,en pruebas,4.9,0,0.01328694194
+3HWK,AGPE EL ENCANTO,solar,solar,en operación,0.986,0,0.002046070968
+3HWM,PETALO DEL MAGDALENA,solar,solar,en pruebas,11.5,0.065625,0.05765772419
+3HYG,URUACO,solar,solar,en operación,0.996,0,0.004807779355
+3INX,CARACOLI I,solar,solar,en operación,50,0.275216,0.2668957573
+3IQA,SUNNORTE,solar,solar,en operación,35,0.136493,0.08464550701
+3IRX,PORTON DEL SOL,solar,solar,en operación,102,0.210367,0
+3IRZ,LA CASCADA DE GRANADA,hidraulica_menor,hidraulica,en operación,2.09,0,0.01839189677
+3IS2,PARQUE SOLAR ARENAL,solar,solar,en pruebas,2,0,0.009346080323
+3IZ6,PARQUE SOLAR LA UNION,solar,solar,en operación,100,0.54069,0.5976538143
+3J1J,PARQUE SOLAR HONDA I,solar,solar,en pruebas,9.9,0,0.04602648194
+3J2B,SOLAR PLANETA RICA,solar,solar,en operación,19.9,0,0.1027351819
+3J2H,PETALO DE CORDOBA II,solar,solar,en pruebas,9.9,0,0.04119401258
+3J4D,CAIMAN CIENAGUERO,solar,solar,en pruebas,9,0,0.06365261871
+3J4R,PARQUE SOLAR DINAMARCA,solar,solar,en pruebas,9,0,0.05480827774
+3J4T,PARQUE SOLAR VERSALLES,solar,solar,en pruebas,9,0,0.05481953968
+3J4V,PARQUE SOLAR LA MENA,solar,solar,en pruebas,9,0,9.745483871e-06
+3J83,GUAMO,solar,solar,en operación,9,0,0.05009226323
+3J85,NUMBANA,solar,solar,en pruebas,9.9,0,0.05627032226
+3JBP,LA NENERA,solar,solar,en operación,0.975,0,0.004676840968
+3JNR,AUTOG UNIBOL 1,termica,termica,en operación,4.9,0,0.000224976129
+3JP6,GD BASILICA,solar,solar,en operación,0.975,0,0.005226348065
+3JP8,GD LA URIBE,solar,solar,en operación,0.6,0,0.003291506129
+3JPA,GD ALFEREZ,solar,solar,en operación,0.6,0,0.003168570323
+3JPC,GD CHICORAL,solar,solar,en operación,0.975,0,0.005477834516
+3JPE,GD LOS CHORROS,solar,solar,en operación,0.6,0,0.003264992581
+3JPK,MINIGRANJA SAN PEDRO,solar,solar,en operación,0.9959,0,0.005419985484
+3JPM,BARAYA,solar,solar,en operación,0.996,0,0.005435011613
+3JQA,GD EL BANCO,solar,solar,en operación,0.975,0,0.00472479
+3JQC,GANDALF,solar,solar,en operación,0.996,0,0.003922210323
+3JQE,CANAHUATE,solar,solar,en operación,0.996,0,0.006753637097
+3K6T,SOLAR ALEJANDRIA,solar,solar,en pruebas,9.4,0,0.05209888742
+3K6X,GD LA HONDA,solar,solar,en operación,0.975,0,0.005371254516
+3K8A,CELSIA SOLAR ALUMINA,solar,solar,en pruebas,1.971,0,0.001617096774
+3K8C,BSB 503,solar,solar,en operación,19.9,0,0.09302843903
+3K8E,BSB 504,solar,solar,en operación,19.9,0,0.09402968516
+3KJK,SOL Y CIELO I,solar,solar,en pruebas,9.9,0,0.04177515581
+3KLQ,AUTOG TERMOMACAGUA 1,termica,termica,en operación,4.9,0,0.007255806452
+3KOL,GD PALERMO,solar,solar,en operación,0.975,0,0.005355534194
+3KVZ,AUTOG BIOS CONTEGRAL CARTAGO,solar,solar,en pruebas,3.225,0,0.001275290323
+3KXQ,AUTOG BIOS CONTEGRAL NEIVA,solar,solar,en pruebas,1.6,0,2.578290323e-05
+3L9B,AUTOG EL COPEY,solar,solar,en pruebas,6.6,0,0.01427533548
+3LLY,PARQUE SOLAR HONDA II,solar,solar,en pruebas,9.9,0,0.04266438548
+3LMH,JEQUES,solar,solar,en pruebas,9.9,0,0.05619440194
+3LMJ,CELSIA SOLAR BUGALAGRANDE,solar,solar,en pruebas,9.9,0,0.05356517258
+3MHB,MINIGRANJA LA PAZ VALLENATA,solar,solar,en operación,0.996,0,0.006699512581
+3MS2,CELSIA SOLAR PUERTO TEJADA,solar,solar,en operación,19.9,0,0.08413329194
+3N5E,AGPE SUB LIBERTADOR,solar,solar,en operación,0.02,0,1.153483871e-05
+3NDE,GD ERCO TOLDADO,solar,solar,en operación,0.99,0,0.005081605806
+3NGJ,GD CHIMBI,solar,solar,en operación,0.975,0,0.005491639355
+3NLE,GD NAOS I,solar,solar,en operación,0.96,0,0.005834862258
+3NLG,ROVIRA,solar,solar,en pruebas,3.1,0,0.01684258742
+3NLZ,SOLAR OLD T,solar,solar,en pruebas,9.9,0,0.05460921323
+3NNZ,AUTOG TERMOCOROCITO 1,termica,termica,en operación,4.9,0,0.03032022581
+3NR4,MINIGRANJA EL MOLINO,solar,solar,en operación,0.996,0,0.005067820968
+3NR8,LA INGLESA,solar,solar,en operación,0.996,0,0.006899139355
+3NU4,GD FINCA JM,solar,solar,en operación,0.99,0,0.003019530323
+3PK3,AUTOG MILPA SAN CARLOS,solar,solar,en pruebas,1.8,0,0.002825112581
+3PKF,AUTOG UNIMINAS,solar,solar,en pruebas,1.8,0,0.0006528580645
+3PWF,AUTOG SOLAR PALMIRA II BERRY,solar,solar,en operación,4.99,0,0.01429122581
+3PXC,BSB 501,solar,solar,en operación,19.9,0,0.09277150323
+3PXE,BSB 500,solar,solar,en operación,19.9,0,0.09162446065
+3PXF,BSB 502,solar,solar,en operación,19.9,0,0.09426102355
+3PXH,CENTRO SOLAR,solar,solar,en pruebas,9.9,0,0.05136503581
+3PXJ,BUENAVISTA,solar,solar,en pruebas,6.8,0,0.04448195
+3Q7D,AUTOG BIOS FINCA BUGA,solar,solar,en pruebas,1.06,0,0.000232673871
+3Q87,GD ERCO SALDANA I,solar,solar,en operación,0.99,0,0.005874349032
+3Q89,GD ERCO SALDANA II,solar,solar,en operación,0.99,0,0.005717390645
+3Q99,AUTOG BIODIANA 1,cogeneracion,biomasa,en operación,4.99,0,0.04850021677
+3Q9K,MINIGRANJA LA PAZ VERSO,solar,solar,en operación,0.99,0,0.006908448065
+3QCI,CONDOR,solar,solar,en operación,9.9,0,0.05711409194
+3QK6,AUTOG BIOS CIENAGA ORO,solar,solar,en pruebas,1.1,0,0.0001312703226
+3QQ3,GD FINCA ISABEL LOPEZ,solar,solar,en operación,0.99,0,0.003851327742
+3R9G,GD EL ROBLE,solar,solar,en operación,0.996,0,0.004849202903
+3RGX,JUMI,solar,solar,en pruebas,9.9,0,0.05802609355
+3RGZ,MINIGRANJA LA PAZ LEYENDA,solar,solar,en operación,0.99,0,0.0067371
+3RH2,AUTOG HIDROSOLAR I,solar,solar,en operación,4.9,0,0.02273114484
+4QPJ,SOL DEL MAR II,solar,solar,en pruebas,9.9,0,0.04485118677
+4RG6,AUTOG CELSIA SOLAR TQ JAMUNDI,solar,solar,en pruebas,1.92,0,3.251612903e-05
+4RGG,PARQUE SOLAR BARANOA,solar,solar,en operación,19.9,0,0.09138790032
+4RMR,MINIGRANJA LA PAZ ESMERALDA,solar,solar,en operación,0.99,0,0.005192195484
+4S1G,MINIGRANJA VILLANUEVA,solar,solar,en operación,0.99,0,0.004970015806
+4S66,GD DIOCESIS DE RIOHACHA,solar,solar,en operación,0.15,0,0.0005878964516
+4S7E,MINIGRANJA EL SON,solar,solar,en operación,0.99,0,0.005618591613
+4S7I,SOL Y CIELO II,solar,solar,en operación,0.99,0,0.00433886129
+4S7K,SOL Y CIELO III,solar,solar,en operación,0.99,0,0.004397658065
+4SO2,MINIGRANJA EL MERENGUE,solar,solar,en operación,0.99,0,0.006489422581
+4SO4,ROKRA,solar,solar,en operación,9.9,0,0.06012688194
+4SO6,LA MARTINA,solar,solar,en pruebas,9.9,0,0.06201625484
+4SO8,MINIGRANJA LA PUYA,solar,solar,en operación,0.99,0,0.006944805484
+4SS7,SOL Y CIELO IV,solar,solar,en operación,0.99,0,0.004279743226
+4T6C,AUTOG LOS POCITOS 1,cogeneracion,biomasa,en operación,4.1,0,0.03130471548
+4T6E,AUTOG CORPACERO 1,termica,termica,en operación,2.1,0,3.761290323e-06
+4T9M,GD NAOS II,solar,solar,en operación,0.96,0,0.005713904839
+4UK6,PARQUE EOLICO CARRETO,eolica,eolica,en pruebas,9.1,0,0.01396372548
+4ULO,MINIGRANJA LA RESERVA,solar,solar,en operación,0.99,0,0.005628475161
+4ULS,MINIGRANJA EL OLIMPO,solar,solar,en operación,0.99,0,0.005344128065
+4ULY,GD ERCO GUAMO III,solar,solar,en operación,0.99,0,0.005649493871
+4UM1,GD ERCO GUAMO IV,solar,solar,en operación,0.99,0,0.005694932258
+4UZM,SOLAR PALMASECA I,solar,solar,en pruebas,13,0,0.06915689677
+4UZO,SOLAR PALMASECA II,solar,solar,en pruebas,11.95,0,0.05736371323
+4UZS,SOL Y CIELO V,solar,solar,en operación,0.99,0,0.004646867742
+4UZU,GD ERCO GUAMO II,solar,solar,en operación,0.99,0,0.005653306129
+4VBC,SOL Y CIELO VI,solar,solar,en operación,0.99,0,0.004083406774
+4VYB,GD ERCO GUAMO I,solar,solar,en operación,0.99,0,0.005711089677
+4VYM,AUTOG MOLINOS SANTA MARTA,solar,solar,en operación,3.3,0,0.01203269032
+4WP2,GD NAOS III,solar,solar,en operación,0.96,0,0.005136385806
+4WUK,AUTOG COMOLSA,solar,solar,en operación,3.3,0,0.006921812903
+4WUM,AUTOG QBCO,solar,solar,en operación,3.3,0,0.01014204194
+4WWQ,MINIGRANJA IBIRICO,solar,solar,en operación,0.99,0,0.005957806452
+4WWY,GD SAN MARTIN,solar,solar,en operación,0.99,0,0.005026950323
+4XOU,MINIGRANJA LA CUMBIA,solar,solar,en operación,0.99,0,0.005435036452
+4XP3,AUTOG TERMOARAUCA 1,termica,termica,en operación,4.9,0,0
+4XQ2,PARQUE SOLAR INTI I,solar,solar,en operación,9.9,0,0.04762362097
+4XQA,GD SAN MARTIN II,solar,solar,en operación,0.99,0,0.005047632581
+4XQC,AUTOG GOLOSINAS TRULULU,hidraulica_menor,hidraulica,en operación,3.3,0,0.002091064516
+4XUX,GD PULOY,solar,solar,en operación,0.99,0,0.003880973548
+4Y5T,GD SAN MARTIN III,solar,solar,en operación,0.99,0,0.005063316774
+4YAW,AUTOG PALMERAS DE LA COSTA,solar,solar,en pruebas,3.2,0,0.004063529677
+4YCF,SHANGRI LA,solar,solar,en operación,160,0.855213,0.563926031
+4YCN,VILLANUEVA 1,cogeneracion,biomasa,en operación,25,0,0.5930752084
+4YKB,SOLAR PN I,solar,solar,en pruebas,9.9,0,0.05847772871
+4YL2,GD GRANJA LA RUBIELA,solar,solar,en operación,0.99,0,0.004501145484
+4YL8,PETALO DEL NORTE DE SANTANDER I,solar,solar,en operación,19.9,0,0.1103656755
+4YLA,GD ALEJANDRIA I,solar,solar,en operación,0.99,0,0.005949420968
+4YLC,GD ALEJANDRIA III,solar,solar,en operación,0.99,0,0.005566506129
+4YLE,GD ALEJANDRIA II,solar,solar,en operación,0.99,0,0.005824124194
+4YLK,DELTA I,solar,solar,en operación,0.99,0,0.00601324871
+4YLM,POLARIS I,solar,solar,en operación,0.99,0,0.004232456774
+4YLO,SAN ONOFRE,solar,solar,en operación,0.9,0,0.003455006452
+4Z8H,ZAMBRANO II,solar,solar,en pruebas,15.5,0,0.0156572129
+4Z8L,MINIGRANJA SAN DIEGO SUR,solar,solar,en operación,0.99,0,0.006090712903
+4Z8N,MINIGRANJA EL JOROPO,solar,solar,en operación,0.99,0,0.00587138129
+4Z8P,MINIGRANJA EL MAPALE,solar,solar,en operación,0.99,0,0.006090109677
+4Z8T,GD ENCANTO,solar,solar,en operación,0.99,0,0.004655483871
+4Z9Q,SOLAR ARDOBELA I,solar,solar,en operación,9.9,0,0.05166779161
+4Z9S,SOLAR ARDOBELA II,solar,solar,en operación,9.9,0,0.04941655903
+4ZEP,GD ERCO MARIANGOLA,solar,solar,en operación,0.99,0,0.005113926129
+4ZIO,GD BLANCA ENERGY I,solar,solar,en operación,0.1,0,0.0006160887097
+4ZIS,GD BLANCA ENERGY II,solar,solar,en operación,0.1,0,0.0006586354839
+5AD4,AUTOG CORONA SOPO,solar,solar,en pruebas,4.825,0,0.0002684903226
+5AUE,GD PXV I,solar,solar,en operación,0.99,0,0.004675086774
+5AUG,GD PXV IV,solar,solar,en operación,0.99,0,0.004663836774
+5AUM,GD GRANJA SAN PELAYO,solar,solar,en operación,0.99,0,0.00482307
+5AXC,VALLEDUPAR II,solar,solar,en pruebas,19.9,0,0.1072099719
+5AXE,VALLEDUPAR I,solar,solar,en pruebas,19.9,0,0.1076610242
+5AXG,VALLEDUPAR III,solar,solar,en pruebas,19.9,0,0.105539909
+5AXI,GD PARQUE SOLAR GRANADA I,solar,solar,en operación,0.99,0,0.005309265161
+5B15,GD MGS 0013 LA MESA,solar,solar,en operación,0.99,0,0.006303672258
+5BPT,GD DELTA II,solar,solar,en operación,0.99,0,0
+5BPX,GD AGUSTIN I,solar,solar,en operación,0.99,0,0.006107933226
+5BQA,GD POLARIS II,solar,solar,en operación,0.99,0,0.005084911935
+5DW3,GD YURBAQUA,solar,solar,en operación,0.9,0,0.004050338065
+5DW8,GD SEMILLA DE GUACAMAYAL II,solar,solar,en operación,0.96,0,0.003651379355
+5DWA,CELSIA SOLAR ESCOBAL IV,solar,solar,en operación,23,0,0.1142008277
+5E3F,MINIGRANJA VALENCIA ORIENTE II,solar,solar,en operación,0.99,0,0.006763334194
+5E3J,MINIGRANJA EL COPEY OCCIDENTE,solar,solar,en pruebas,0.99,0,0.005019550968
+5E3N,CELSIA SOLAR ESCOBAL V,solar,solar,en operación,23.94,0,0.1097139961
+5E6T,SOL Y CIELO VII,solar,solar,en operación,0.99,0,0.004435350323
+5EER,CELSIA SOLAR ESCOBAL III,solar,solar,en operación,24.57,0,0.1130094019
+5EES,CELSIA SOLAR ESCOBAL II,solar,solar,en operación,24.57,0,0.09965187581
+5F3P,GD WE202,solar,solar,en operación,0.99,0,0.003853586774
+5F3Q,GD WE2021,solar,solar,en operación,0.99,0,0.004477819355
+5F3X,GD CARACOL III,solar,solar,en operación,0.99,0,0.005510943226
+5F3Y,GD CARACOL II,solar,solar,en operación,0.99,0,0.005276643226
+5F3Z,GD CADILLO II,solar,solar,en operación,0.99,0,0.005371924516
+5F41,GD CARACOL I,solar,solar,en operación,0.99,0,0.005535870645
+5F42,GD LAS MERCEDES I,solar,solar,en operación,0.99,0,0.005611890645
+5F43,ALMA II,solar,solar,en operación,9.8,0,0.06594437097
+5F46,EL TAMARINDO I,solar,solar,en pruebas,9.9,0,0.05242357613
+5F47,EL TAMARINDO II,solar,solar,en pruebas,9.9,0,0.05192711355
+5F49,AUTOG CARVAJAL GINEBRA,solar,solar,en operación,3.4,0,0.0005907870968
+5F6V,GD ESPERANZA II,solar,solar,en operación,0.96,0,0.005417876129
+5F6W,GD ESPERANZA I,solar,solar,en operación,0.96,0,0.005244202903
+5F6Z,GD LAS MERCEDES II,solar,solar,en operación,0.99,0,0.005488580645
+5F71,PCH LA NOQUE,hidraulica_menor,hidraulica,en operación,9.9,0,0.07757820968
+5F74,GD SAN PELAYO,solar,solar,en operación,0.99,0,0.004150553548
+5FPK,GD BIOSOLAR,solar,solar,en operación,0.5,0,0.002796446774
+5FPL,GRANJA SOLAR LA GARITA,solar,solar,en operación,0.99,0,0.005981827097
+5FPM,GD ASTROLUMEN LA GARITA,solar,solar,en operación,0.99,0,0.005094462903
+5FPV,GD ERCO PALMAS,solar,solar,en operación,0.99,0,0.003816819677
+5G3O,CELSIA SOLAR ESCOBAL I,solar,solar,en operación,23.94,0,0.09932826742
+5G3S,PARQUE SOLAR BUGAMBILES,solar,solar,en operación,9.9,0,0.04817563677
+5G3T,PARQUE SOLAR NISPEROS,solar,solar,en operación,19.9,0,0.09562328645
+5G3U,SOL DE ZAWADY,solar,solar,en operación,9.9,0,0.04819076032
+5GF5,GD BLANCA ENERGY SOLAR 24,solar,solar,en operación,0.1,0,0.0006267677419
+5GF6,GD BLANCA ENERGY SOLAR 23,solar,solar,en operación,0.1,0,0.0006231558065
+5GFB,GD JARDINCITO,solar,solar,en operación,0.99,0,0.005375224516
+5H1F,MINIGRANJA VALENCIA ORIENTE I,solar,solar,en operación,0.99,0,0.006274040323
+5H1M,GD LA CACICA,solar,solar,en operación,0.99,0,0.00617699
+5H1N,GD LAS PILONERAS,solar,solar,en operación,0.99,0,0.006147022903
+5H1O,GD YUAN SOLAR,solar,solar,en operación,0.99,0,0.004545550645
+5H1R,GD LA CATEDRAL,solar,solar,en operación,0.99,0,0.003564125806
+5IKR,GD LYRA,solar,solar,en operación,0.99,0,0.004941808387
+5IKT,GD SEMILLAS MONTERIA I,solar,solar,en operación,0.99,0,0.00449164129
+5IKU,GD SEMILLAS MONTERIA II,solar,solar,en operación,0.99,0,0.004308337742
+5IM7,GD ORBIS,solar,solar,en operación,0.99,0,0.004755988065
+5IMB,AGPE CEDILLANOS,solar,solar,en operación,0.936,0,0.001473503226
+5IME,PARQUE SOLAR SABANA,solar,solar,en pruebas,9.9,0,0.06620395871
+5ISK,GD PALMERAS I,solar,solar,en operación,0.99,0,0.005131692581
+5ISL,GD PALMERAS III,solar,solar,en operación,0.99,0,0.005183409677
+5ISM,GD PALMERAS IV,solar,solar,en operación,0.99,0,0.003369917419
+5ISN,GD CSF ARENALES I,solar,solar,en operación,0.99,0,0.005045642258
+5ISO,GD PALMERAS II,solar,solar,en operación,0.99,0,0.005183868065
+5ISR,GD LA MACANA,solar,solar,en operación,0.99,0,0.00481626129
+5ISS,GD PARQUE SOLAR GRANADA II,solar,solar,en operación,0.99,0,0.005249916774
+5ISX,PLANTA SOLAR SAN FRANCISCO,solar,solar,en operación,4.9,0,0.02945651613
+5ISY,GD BLANCA ENERGY III,solar,solar,en operación,0.99,0,0
+5IT1,GD ALAMO SOLAR,solar,solar,en operación,0.99,0,0.004671908387
+5IT2,GD SEMILLA DEL PASO IA,solar,solar,en operación,0.99,0,0.006126512903
+5IT3,GD SEMILLA DEL PASO III,solar,solar,en operación,0.99,0,0.005927211613
+5IVZ,GD CORALITO,solar,solar,en operación,0.99,0,0.004641091613
+5IW1,GD EMPERATRIZ I,solar,solar,en operación,0.96,0,0.0001089658065
+5J8H,GRANJA SOLAR ASTURIAS,solar,solar,en operación,19.8,0,0.06313481677
+5J8I,GD GOLONDRINA,solar,solar,en operación,0.99,0,0.004761006774
+5J8J,GD EMPERATRIZ II,solar,solar,en operación,0.96,0,0.001515987097
+5J8K,PARQUE SOLAR HATO GRANDE,solar,solar,en pruebas,9.4,0,0.05936826161
+5JDL,PARQUE SOLAR EL JARDIN,solar,solar,en pruebas,9,0,0.05508102581
+5JG6,GD SOLYCIELO 9,solar,solar,en operación,0.99,0,0.004298170323
+5JGE,GD ERCO LAS PIEDRAS II,solar,solar,en operación,0.99,0,0.004898692258
+5JJA,GD CHIRIGUANA NORTE I,solar,solar,en operación,0.99,0,0.006345968065
+5JJC,GD ERCO LAS PIEDRAS I,solar,solar,en operación,0.99,0,0.004999202581
+5JQL,GD POLARIS III,solar,solar,en operación,0.99,0,0.005051910323
+5JRO,GD EDEQ SOLAR LA TEBAIDA,solar,solar,en operación,0.12,0,0.00048459
+5JRP,GD EDEQ SOLAR MONTENEGRO,solar,solar,en operación,0.105,0,0.0004488348387
+5K7H,GD PEGASUS SOLAR,solar,solar,en operación,0.999,0,0.004851765161
+5K7I,GD PARQUE SOLAR LA ESPERANZA,solar,solar,en operación,0.99,0,0.005488116774
+5K7N,GD SEMILLA DE EL PASO IVA,solar,solar,en operación,0.99,0,0.005827887097
+5K7O,GD SEMILLA DE EL PASO IIIA,solar,solar,en operación,0.99,0,0.005722084839
+5L9T,GD PARQUE SOLAR TRONCAL,solar,solar,en operación,0.99,0,0.005107163226
+5LAA,GD SEVILLANO RURAL II,solar,solar,en operación,0.99,0,0.004333058065
+5LON,GD MEISSA II,solar,solar,en operación,0.96,0,0.004537966129
+5LOO,GD SEVILLANO RURAL I,solar,solar,en operación,0.99,0,0.003737477419
+5LSN,GD CHIRIGUANA NORTE II,solar,solar,en operación,0.99,0,0.005674936129
+5LSO,GD CHIRIGUANA NORTE IV,solar,solar,en operación,0.99,0,0.00645015871
+5LT6,PLANTA FV DONA JUANA,solar,solar,en operación,4.3,0,0.0289098629
+5LTA,GD ERCO GOLONDRINA I,solar,solar,en pruebas,0.99,0,0.004633186452
+5LTB,GD ERCO ISIDORI,solar,solar,en operación,0.99,0,0.004678355484
+5MA4,GD GALILEO SOLAR,solar,solar,en operación,0.999,0,0.004761912581
+5MAD,GD BONILLA A III,solar,solar,en operación,0.99,0,0.003071427419
+5MAE,GD BONILLA A I,solar,solar,en operación,0.99,0,0.004976083548
+5MAF,GD BONILLA A V,solar,solar,en operación,0.99,0,0.004953974516
+5MAG,GD BONILLA A II,solar,solar,en operación,0.99,0,0.003609509032
+5MAH,GD BONILLA A IV,solar,solar,en operación,0.99,0,0.004568498065
+5MAK,GD SINAI,solar,solar,en operación,0.96,0,0.005718715161
+5MY6,GD SOL Y CIELO X,solar,solar,en operación,0.9,0,0.004259236129
+5NK2,GD LA HORMIGUITA,solar,solar,en operación,0.99,0,0.004029406774
+5NPT,GD SUAMOX,solar,solar,en operación,0.925,0,0.003263109677
+5O14,GD EL PASO NORTE,solar,solar,en pruebas,0.99,0,0.006427254839
+5O15,GD EL CASTILLO I,solar,solar,en operación,0.96,0,0.003601087419
+5O16,GD EL CASTILLO III,solar,solar,en operación,0.96,0,0.004282523548
+5O17,GD EL CASTILLO V,solar,solar,en operación,0.96,0,0.004784289677
+5O1A,GD EL CASTILLO II,solar,solar,en operación,0.96,0,0.004738764516
+5O1C,GD EL CASTILLO IV,solar,solar,en operación,0.96,0,0.004048300323
+5O1U,GD CANARIOS I,solar,solar,en operación,0.96,0,0.004208336774
+5O1V,GD LOS MANGOS I,solar,solar,en operación,0.96,0,0.005898970323
+5O1W,GD CANARIOS II,solar,solar,en operación,0.96,0,0.004463842581
+5O49,PARQUE SOLAR CRLI,solar,solar,en pruebas,9.9,0,0.04947948935
+5OWK,GD LOS MANGOS II,solar,solar,en operación,0.96,0,0.003802311935
+5OWN,GD LOS MANGOS III,solar,solar,en operación,0.96,0,0.004661643871
+5OWY,GD CANARIOS III,solar,solar,en operación,0.96,0,0.004338385161
+5P44,AUTOG CELSIA SOLAR TQ TECNOSUR,solar,solar,en pruebas,4.08,0,0.001615316129
+5PO1,GD VITERBO I,solar,solar,en pruebas,0.97,0,0.004499686452
+5PO2,GD VITERBO II,solar,solar,en pruebas,0.97,0,0.004033953548
+5PTU,GD SAN ONOFRE III,solar,solar,en operación,0.9,0,0.004871979032
+5PTW,GD SAN ONOFRE II,solar,solar,en operación,0.9,0,0.004809569032
+5PU1,GD SAN ONOFRE I,solar,solar,en operación,0.9,0,0.004558700645
+5PUN,LA PAZ,solar,solar,en operación,19.8,0,0.04966842581
+5PUP,GD ESPERANZA I ETAPA II,solar,solar,en pruebas,0.96,0,0.005493085484
+5QFE,GD SABANA DE TORRES,solar,solar,en pruebas,0.99,0,0.00580215871
+5QFG,GD TAURUS VIII,solar,solar,en pruebas,0.96,0,0.003036063871
+5QFI,GD TAURUS IX,solar,solar,en pruebas,0.96,0,0.00246666129
+5QFK,GD TAURUS X,solar,solar,en pruebas,0.96,0,0.003193732903
+5QFM,GD AGUSTIN II,solar,solar,en operación,0.99,0,0.006120305484
+5QFO,GD CAPILLA I,solar,solar,en pruebas,0.99,0,0.005791160323
+5QP8,GD GRANJA SOLAR EL BOTE,solar,solar,en operación,0.99,0,0.004730669677
+5QQ9,GD EL OBLIGADO I,solar,solar,en pruebas,0.96,0,2.819354839e-07
+5QTA,GD AGUSTIN III,solar,solar,en operación,0.99,0,0.006096692903
+5QTJ,GD GRANJA SOLAR SAN AGUSTIN,solar,solar,en operación,0.99,0,0.005684747097
+5QUE,GD ERCO PALMAS II,solar,solar,en pruebas,0.99,0,5.486806452e-05
+5QUG,GD GUADALUPE I,solar,solar,en pruebas,0.99,0,0.005042754839
+5SCK,GD VEGA II,solar,solar,en operación,0.99,0,0.006395485161
+5SCX,GD VEGA I,solar,solar,en operación,0.99,0,0.006384499355
+5SE7,GD SOL Y CIELO XII,solar,solar,en operación,0.9,0,0.004727656774
+5SE9,GD SOL Y CIELO XIII,solar,solar,en operación,0.9,0,0.004098215806
+5SEB,GD SOL Y CIELO XI,solar,solar,en operación,0.9,0,0.004682329032
+5SED,GD SOL Y CIELO XIV,solar,solar,en operación,0.9,0,0.004075887419
+5SEF,CHENCHE PURIFICACION,solar,solar,en pruebas,9.9,0,0.06795695258
+5SEL,GD PISINGO II,solar,solar,en operación,0.989,0,0.005160829355
+5SEN,GD PISINGO I,solar,solar,en operación,0.989,0,0.005145261935
+5SHN,GD PIEDECUESTA II,solar,solar,en operación,0.99,0,0.00446773871
+5SHV,GD PIEDECUESTA I,solar,solar,en operación,0.99,0,0.004305222581
+5SHY,GD PIEDECUESTA III,solar,solar,en operación,0.99,0,0.004001551613
+5TG6,GD GALERAS OCCIDENTE,solar,solar,en operación,0.99,0,0.00567155129
+5TG8,GD ERCO GOLONDRINA II,solar,solar,en pruebas,0.99,0,0.004792310968
+5TJN,GD SEMILLAS DE CERETE II,solar,solar,en operación,0.9,0,0.004308867742
+5TN4,GD LA PERDIZ,solar,solar,en operación,0.99,0,0.004571046452
+5TN6,GD GARZA,solar,solar,en operación,0.99,0,0.004160756129
+5TNK,GD ROCKY II,solar,solar,en pruebas,0.9,0,0.001363562581
+5TNL,GD PXV II,solar,solar,en pruebas,0.99,0,0.00474713871
+5TNM,GD LYRA II,solar,solar,en pruebas,0.99,0,0.006113444516
+5TNV,GD NAOS V,solar,solar,en pruebas,0.99,0,0.002785401613
+5TO2,GD NAOS IV,solar,solar,en pruebas,0.99,0,0.002914134194
+5TQN,GD NOVA I,solar,solar,en pruebas,0.99,0,0.005974198065
+5TQQ,PLANTA SOLAR SGDE,solar,solar,en pruebas,9.9,0,0.0456539271
+5U9S,GD SAN MARTIN I,solar,solar,en operación,0.99,0,0.005516910323
+5U9U,AUTOG LADRILLERA DEL META 1,solar,solar,en pruebas,1.2,0,3.870967742e-09
+5U9W,SUAREZ,solar,solar,en pruebas,8,0,0.04171714806
+5UHA,PARQUE SOLAR INTI II,solar,solar,en pruebas,9.9,0,0.04353101065
+5UW9,GD CALIPSO SOLAR,solar,solar,en pruebas,0.99,0,0.001938499355
+5UWB,GD RIGEL SOLAR,solar,solar,en pruebas,0.99,0,0.001517347097
+5UWF,GD TITAN SOLAR,solar,solar,en pruebas,0.9,0,0.001959723226
+5VXT,GD PARQUE SOLAR TRONCAL II,solar,solar,en operación,0.99,0,0.005604471613
+5W4K,AUTOG EXTRACTORA MONTERREY 1,cogeneracion,biomasa,en operación,1,0,0.005992258065
+5W4Q,GD LEGACY,solar,solar,en pruebas,0.99,0,0.004986370323
+5WTZ,GD ERCO BELEN I,solar,solar,en pruebas,0.99,0,0.001791274516
+5WU2,GD ERCO BELEN II,solar,solar,en pruebas,0.99,0,0.00327389
+5WUA,TOLU SOLAR,solar,solar,en pruebas,9.9,0,0.04690947935
+5WUV,GD NOVA II,solar,solar,en pruebas,0.99,0,0.002857065161
+5WUZ,GD MARIANGEL,solar,solar,en pruebas,0.99,0,0.006131325161
+5WW2,GD POLARIS IV,solar,solar,en pruebas,0.99,0,0.005655202903
+5XA5,GD EL TRIUNFO,solar,solar,en pruebas,0.99,0,0.005908685161
+5XBY,GD LURUACO I A I,solar,solar,en operación,0.999,0,0.004704428065
+5XC1,GD LURUACO I A II,solar,solar,en operación,0.999,0,0.004371231613
+5XOI,GD LURUACO I A III,solar,solar,en operación,0.999,0,0.005388917419
+5XOK,GD LURUACO I A IV,solar,solar,en operación,0.999,0,0.005201165161
+5XOU,GD GY SAN MARTIN II,solar,solar,en operación,0.99,0,0.004418555806
+5XQS,AUTOG ENKA DE COLOMBIA 1,termica,termica,en pruebas,4,0,0.09283089258
+5XRM,GD CSF PINONES,solar,solar,en operación,0.99,0,0.005082687097
+5XRO,GD ASTRA I,solar,solar,en pruebas,0.99,0,0.005628170968
+5XSB,GD ATTIE KAI PRINCESA NEGRA,solar,solar,en operación,0.99,0,0.0029667
+5XT5,AUTOG CANAHUATE,solar,solar,en pruebas,50,0,0.0007958732258
+5XW4,GD AGRICOLA SUGAR CANE SAS,solar,solar,en pruebas,0.99,0,7.238709677e-07
+5YDA,GUALANDAY,solar,solar,en pruebas,19.9,0,0.1030055255
+5YPB,GD TAURAMENA I,solar,solar,en operación,0.99,0,0.005128351613
+5YSW,GD CARACOLI II,solar,solar,en pruebas,0.99,0,0.0005353196774
+6AS5,GD LA GENERALA I,solar,solar,en pruebas,0.99,0,0.001766074839
+ABJ1,LA CASCADA ( ABEJORRAL),hidraulica_menor,hidraulica,en operación,3,0,0.003071554839
+AFR1,AGUA FRESCA,hidraulica_menor,hidraulica,en operación,7.29,0.008415,0.1091963397
+ALBG,ALBAN,hidraulica,hidraulica,en operación,427,2.02155,2.007706633
+ALTG,ALTO TULUA,hidraulica_menor,hidraulica,en operación,20,0.014901,0.1269262055
+AMA1,AMAIME,hidraulica_menor,hidraulica,en operación,19.17,0.047388,0.1462613571
+AMF1,AMALFI,hidraulica_menor,hidraulica,en operación,0.81,0,0.008387067097
+AMR1,AMERICA,hidraulica_menor,hidraulica,en operación,0.41,9.8e-05,0
+ANDR,ANDROMEDA,solar,solar,"registrada en XM, sin pruebas",,0.530257,0
+APHA,FUTURA - PARQUE ALPHA,eolica,eolica,"registrada en XM, sin pruebas",,0.15264,0
+APLU,FUTURA - APOTOLORRU,eolica,eolica,"registrada en XM, sin pruebas",,0.445015,0
+ARG1,TERMOFENIX I 1,termica,termica,en operación,15,0,0
+ASN1,ASNAZU,hidraulica_menor,hidraulica,en operación,0.45,0,0.008857117742
+ATLP,ATLANTICO,solar,solar,en operación,199,1.013954,0.5752028036
+AYR1,AUTOG AYURA,hidraulica_menor,hidraulica,en operación,16.7,0,0.08805287097
+BAR1,BARROSO,hidraulica_menor,hidraulica,en operación,19.9,0,0.2009227432
+BETA,FUTURA - PARQUE BETA,eolica,eolica,"registrada en XM, sin pruebas",,0.2016,0
+BLL3,BELLO,hidraulica_menor,hidraulica,en operación,0.35,0.000773,0.003337683871
+BLM1,BELMONTE,hidraulica_menor,hidraulica,en operación,3.4,0,0.05248877258
+BSQ1,EL BOSQUE,hidraulica_menor,hidraulica,en operación,2.28,0.018003,0.03152832774
+BYN1,BAYONA,hidraulica_menor,hidraulica,en operación,0.6,0,0
+CAS1,CENTRAL CASTILLA 1,cogeneracion,biomasa,en operación,3,0,0.03198495484
+CCN1,COCONUCO,hidraulica_menor,hidraulica,en operación,4.5,0,0.03933006452
+CELE,FUTURA - CASA ELECTRICA,eolica,eolica,"registrada en XM, sin pruebas",,0.888245,0
+CGM1,MAYAGUEZ 1,cogeneracion,biomasa,en operación,19.9,0,0.5010885161
+CHBG,BETANIA,hidraulica,hidraulica,en operación,540,4.357782,4.545994414
+CHVR,CHIVOR,hidraulica,hidraulica,en operación,1000,7.831999,7.811581245
+CIP1,INGENIO PROVIDENCIA 2,cogeneracion,biomasa,en operación,19.9,0,0.3333739355
+CIS1,INGENIO SAN CARLOS 1,cogeneracion,biomasa,en operación,2,0,0.02541503581
+CLDR,CALDERAS,hidraulica_menor,hidraulica,en operación,19.9,0.16716,0.2127606845
+CLL1,CARLOS LLERAS,hidraulica,hidraulica,en operación,78,0.764997,0.57012836
+CLMG,CALIMA,hidraulica,hidraulica,en operación,132,0.231604,0.2263733034
+CMN1,AUTOG CEMENTOS DEL NARE,hidraulica_menor,hidraulica,en operación,9,0,0.1573862287
+CMP2,CAMPESTRE (EPM),hidraulica_menor,hidraulica,en operación,0.87,0,0.0004885741935
+COE1,COELLO,hidraulica_menor,hidraulica,en operación,1.2,0,0.01377236
+CPT1,CAMPESTRE (CALARCA),hidraulica_menor,hidraulica,en operación,0.7,0,0.01457236419
+CQT1,CHARQUITO,hidraulica_menor,hidraulica,en operación,19.4,0,0.1426756784
+CRC1,CARACOLI,hidraulica_menor,hidraulica,en operación,3.75,0.00252,0.08004008258
+CSC1,CASCADA,hidraulica_menor,hidraulica,en operación,3,0.0252,0.03733983097
+CTG1,CARTAGENA 1,termica,termica,en operación,52,0.57984,0
+CTG2,CARTAGENA 2,termica,termica,en operación,60,0.867612,0.7506538447
+CTG3,CARTAGENA 3,termica,termica,en operación,66,0.415717,0
+CUC1,CUCUANA,hidraulica,hidraulica,en operación,56,0.148452,0.1620668295
+CUR1,CURRUCUCUES,hidraulica_menor,hidraulica,en operación,1.25,0,0.01145752903
+EBAL,ESCOBAL VI,solar,solar,"registrada en XM, sin pruebas",,0.425824,0
+EPFV,EL PASO,solar,solar,en operación,70,0.416673,0.4440101754
+ESMR,ESMERALDA,hidraulica,hidraulica,en operación,30,0.312088,0.3247230849
+FLRD,FLORIDA,hidraulica_menor,hidraulica,en operación,19.9,0,0.1670146919
+FREO,FLOREO,solar,solar,"registrada en XM, sin pruebas",,0.437932,0
+GCA1,CARUQUIA,hidraulica_menor,hidraulica,en operación,9.5,0,0.04671797452
+GCC1,GUACAICA,hidraulica_menor,hidraulica,en operación,0.86,0.00066,0.0004263409677
+GE32,GECELCA 32,termica,termica,en operación,270,4.575923,5.618617852
+GEC3,GECELCA 3,termica,termica,en operación,164,2.109577,3.481643241
+GQA1,GUANAQUITAS,hidraulica_menor,hidraulica,en operación,9.5,0,0.1108222087
+GTPE,GUATAPE,hidraulica,hidraulica,en operación,560,4.497924,4.576157042
+GTRG,GUATRON,hidraulica,hidraulica,en operación,512,5.607195,6.383458126
+GVIO,GUAVIO,hidraulica,hidraulica,en operación,1250,12.080255,12.58490795
+GYP3,GUAYEPO III,solar,solar,en operación,200,1.139916,0.59754409
+GYPO,GUAYEPO,solar,solar,en operación,388,2.108914,2.021573228
+HMIN,ESCUELA DE MINAS,hidraulica,hidraulica,en operación,55,0.166584,0.1644995822
+HMLG,MIEL I,hidraulica,hidraulica,en operación,396,2.272311,2.2324981
+HMO1,HIDROMONTAÑITAS,hidraulica_menor,hidraulica,en operación,24,0.16716,0.3070693661
+HRD1,LA HERRADURA,hidraulica_menor,hidraulica,en operación,19.8,0.13068,0.3413766968
+INC1,INCAUCA 1,cogeneracion,biomasa,en operación,60,0,0.6689993423
+INS1,INSULA,hidraulica_menor,hidraulica,en operación,19,0.156864,0.2080173555
+INT1,INTERMEDIA,hidraulica_menor,hidraulica,en operación,0.96,0,0.01196412935
+IRG1,INGENIO RISARALDA 1,cogeneracion,biomasa,en operación,19.9,0,0.3758139355
+JAG1,,sin listado,,,,0.37248,0
+JAGS,JAGUAS,hidraulica,hidraulica,en operación,170,1.119545,1.100259042
+LBR1,NUEVO LIBARE,hidraulica_menor,hidraulica,en operación,5.1,0,1.506483871e-05
+LCS1,LA CASCADA (ANTIOQUIA),hidraulica_menor,hidraulica,en operación,2.3,0,0.03811956355
+LMR1,EL LIMONAR,hidraulica_menor,hidraulica,en operación,18,0,0.1624526719
+LPLO,RIO PALO,hidraulica_menor,hidraulica,en operación,1.44,0,0.02393965419
+LTSJ,LA TASAJERA,hidraulica,hidraulica,en operación,306,2.295265,2.536747278
+MATA,LA MATA,solar,solar,en operación,80,0.365779,0.478606287
+MIR1,MIROLINDO,hidraulica_menor,hidraulica,en operación,3.75,0,0.04398007677
+MNC1,MUNICIPAL,hidraulica_menor,hidraulica,en operación,1.4,0.006082,0.02196493065
+MND1,MONDOMO,hidraulica_menor,hidraulica,en operación,0.75,0,0.01005156194
+MNT1,MANANTIALES,hidraulica_menor,hidraulica,en operación,3.15,0.008165,0.0002157529032
+MOY1,AMOYA LA ESPERANZA,hidraulica,hidraulica,en operación,80,0.598839,0.6155032432
+MRL1,MERILECTRICA 1,termica,termica,en operación,164,2.487972,2.58862998
+NAV1,LA NAVETA,hidraulica_menor,hidraulica,en operación,4.8,0,0.07519932065
+NIM1,NIMA,hidraulica_menor,hidraulica,en operación,6.7,0.047114,0.09381991935
+NQU1,NIQUIA,hidraulica_menor,hidraulica,en operación,19,0,0.4042374387
+NTB1,NUTIBARA,hidraulica_menor,hidraulica,en operación,0.75,0.001422,2.112580645e-06
+OVJ1,OVEJAS,hidraulica_menor,hidraulica,en operación,0.82,0,0.01634714161
+PES1,ITUANGO,hidraulica,hidraulica,en operación,1200,10.922494,14.91292839
+PGUG,PAGUA,hidraulica,hidraulica,en operación,600,11.062337,10.38451522
+PIC1,INGENIO PICHICHI 1,cogeneracion,biomasa,en operación,11.5,0,0.004931109677
+PJR1,PAJARITO,hidraulica_menor,hidraulica,en operación,13.2,0.06336,0.09949535484
+PLM1,PALMAS SAN GIL,hidraulica_menor,hidraulica,en operación,15,0.03492,0.1378561148
+PLU1,URRAO,hidraulica_menor,hidraulica,en operación,1.03,0,0.01845924032
+PLYS,PLAYAS,hidraulica,hidraulica,en operación,207,3.109154,3.195262066
+PMR1,REMEDIOS,hidraulica_menor,hidraulica,en operación,0.75,0,0.01506816742
+PNC1,COGENERADOR PROENCA,cogeneracion,biomasa,en operación,19.9,0,0
+PORO,PARQUE SOLAR PUERTA DE ORO,solar,solar,en operación,300,1.432653,0.6296535198
+PPA1,PAIPA 1,termica,termica,en operación,36,0.424224,0.6729261713
+PPA2,PAIPA 2,termica,termica,en operación,72,1.207089,1.314673972
+PPA3,PAIPA 3,termica,termica,en operación,70,1.136962,1.332745139
+PPA4,PAIPA 4,termica,termica,en operación,165,3.872906,4.014729766
+PPN1,PAPELES NACIONALES,termica,termica,en operación,,0,0.0001418387097
+PRAS,LAS PALMERAS,solar,solar,"registrada en XM, sin pruebas",,0.430285,0
+PRC2,PORCE II,hidraulica,hidraulica,en operación,405,2.926502,2.977679542
+PRC3,PORCE III,hidraulica,hidraulica,en operación,700,7.829301,8.401779338
+PRD4,PRADO IV,hidraulica_menor,hidraulica,en operación,6.5,0.042,0.05549041968
+PRDO,PRADO,hidraulica,hidraulica,en operación,51,0.103819,0.1029549384
+PRG1,PROELECTRICA 1,termica,termica,en operación,45,1.649395,1.755706466
+PRMA,PLANTA SOLAR LA PRIMAVERA,solar,solar,"registrada en XM, sin pruebas",,0.090195,0
+PRV1,PROVIDENCIA,hidraulica_menor,hidraulica,en operación,4.9,0,0.03584992871
+PST1,PASTALES,hidraulica_menor,hidraulica,en operación,0.7,0,0.01186623968
+PSUA,PARQUE SOLAR URRA,solar,solar,en pruebas,20,0.070561,0.07341763718
+PTA1,LA PITA,hidraulica_menor,hidraulica,en operación,1.42,0,0.006662933548
+PTC1,PATICO - LA CABRERA,hidraulica_menor,hidraulica,en operación,1.48,0,0.01133803226
+PTG1,PUENTE GUILLERMO,hidraulica_menor,hidraulica,en operación,4.2,0,0.04194146645
+QUI1,EL QUIMBO,hidraulica,hidraulica,en operación,400,4.8421,5.093423664
+RBB1,RIO BOBO,hidraulica_menor,hidraulica,en operación,4,0,0.03611286065
+RCIO,RIO RECIO,hidraulica_menor,hidraulica,en operación,0.984,0,0.0006307051613
+RCL1,RIO CALI,hidraulica_menor,hidraulica,en operación,1.8,0.01512,0.01835282903
+RFR1,RIO FRIO I,hidraulica_menor,hidraulica,en operación,1.67,0.012496,0.02549009613
+RFR2,RIO FRIO II,hidraulica_menor,hidraulica,en operación,10,0.055032,0.0699608129
+RGR1,RIO GRANDE,hidraulica_menor,hidraulica,en operación,0.3,0.001555,0.008561570323
+RGRN,RIOGRANDE I,hidraulica_menor,hidraulica,en operación,19,0.016872,0
+RMR1,RUMOR,hidraulica_menor,hidraulica,en operación,2.5,0.021,0.03257679806
+RMYO,RIO MAYO,hidraulica_menor,hidraulica,en operación,19.8,0,0.1764363974
+RNG1,RIONEGRO,hidraulica_menor,hidraulica,en operación,10.2,0,0.09710699516
+RPD1,RIO PIEDRAS,hidraulica_menor,hidraulica,en operación,21,0.147769,0.1847537761
+RPL1,INGENIO RIOPAILA 1,cogeneracion,biomasa,en operación,16,0,0.1628593548
+RUB1,,sin listado,,,,0.37248,0
+SBA1,SUBA,hidraulica_menor,hidraulica,en operación,2.6,0,0.04732530613
+SFC1,SAN FRANCISCO (PUTUMAYO),hidraulica_menor,hidraulica,en operación,0.468,0,0.002463946774
+SJM1,SAN JOSE DE LA MONTAÑA,hidraulica_menor,hidraulica,en operación,0.4,0,0.008839219355
+SJN1,SAJANDI,hidraulica_menor,hidraulica,en operación,3.2,0,0.00026129
+SJOG,SAN JOSE,hidraulica_menor,hidraulica,en operación,0.38,0.00456,0
+SLO1,,sin listado,,,,2.8416,0
+SLO2,,sin listado,,,,1.536,0
+SLV1,SILVIA,hidraulica_menor,hidraulica,en operación,0.38,0,0.006370259355
+SLVJ,SALVAJINA,hidraulica,hidraulica,en operación,315,1.492283,1.497943691
+SMI1,SAN MIGUEL,hidraulica,hidraulica,en operación,50,0.240839,0.349702728
+SNC1,SAN CANCIO,hidraulica_menor,hidraulica,en operación,2,0.00552,0.0277888271
+SNCR,SAN CARLOS,hidraulica,hidraulica,en operación,1240,12.561882,12.07700857
+SNFR,SAN FRANCISCO,hidraulica,hidraulica,en operación,135,0.426844,0.4441248004
+SNS1,SONSON,hidraulica_menor,hidraulica,en operación,18.5,0.1554,0.1949456903
+SNT1,SANTA ANA,hidraulica_menor,hidraulica,en operación,8,0,0.1339638784
+SOG1,SOGAMOSO,hidraulica,hidraulica,en operación,819,9.45454,10.80601781
+SPY1,RIO SAPUYES,hidraulica_menor,hidraulica,en operación,1.65,0,0.009169577419
+SRA1,SANTA RITA,hidraulica_menor,hidraulica,en operación,1.3,0,0
+STG1,SANTIAGO,hidraulica_menor,hidraulica,en operación,2.8,0,0.0209339729
+SUV1,SUEVA 2,hidraulica_menor,hidraulica,en operación,6,0,0.09554823871
+TBQ3,BARRANQUILLA 3,termica,termica,en operación,60,1.336142,1.218513519
+TBQ4,BARRANQUILLA 4,termica,termica,en operación,60,1.285391,1.136563265
+TBST,TEBSAB CC,termica,termica,en operación,791,18.361457,18.97312662
+TCBE,TERMOCARIBE III 1,termica,termica,en operación,52,0.910044,0.9789104546
+TCDT,TERMOCANDELARIA CC,termica,termica,en operación,555,12.920786,12.70540278
+TDR1,TERMODORADA 1,termica,termica,en operación,48,0.484798,0.9068750043
+TEC1,TERMOEMCALI CC,termica,termica,en operación,229,4.854652,5.001596588
+TFL1,FLORES I CC,termica,termica,en operación,160,3.220335,3.649156648
+TFL4,FLORES 4 CC,termica,termica,en operación,445,9.978454,10.55231106
+TGJ1,GUAJIRA 1,termica,termica,en operación,145,3.034309,2.550909067
+TGJ2,GUAJIRA 2,termica,termica,en operación,130,2.144994,2.224053618
+TMS1,RIOFRIO (TAMESIS),hidraulica_menor,hidraulica,en operación,1,0.006912,0.01861299097
+TNOR,TOLIMA NORTE,solar,solar,"registrada en XM, sin pruebas",,0.1029576,0
+TNOS,TAMARINO,solar,solar,"registrada en XM, sin pruebas",,0.415288,0
+TPD1,TERMOPIEDRAS 1,termica,termica,en operación,3.75,0,0.001863930968
+TPUY,PARQUE SOLAR TEPUY,solar,solar,en operación,83,0.513348,0.4839991219
+TR2G,BOSQUES SOLARES DE LOS LLANOS II,solar,solar,en pruebas,19.9,0,0.1203791981
+TR3G,BOSQUES SOLARES DE LOS LLANOS III,solar,solar,en pruebas,19.9,0,0.118034129
+TRM1,TERMOCENTRO CC,termica,termica,en operación,272,4.57344,5.252136049
+TRN1,TERMONORTE,termica,termica,en operación,88,1.8837,1.979416785
+TSJ1,TASAJERO 1,termica,termica,en operación,165,3.832262,3.743397832
+TSJ2,TASAJERO 2,termica,termica,en operación,170,3.895274,4.067090781
+TSR1,TERMOSIERRA CC,termica,termica,en operación,433,4.750268,7.672837716
+TUJ1,TUNJITA,hidraulica,hidraulica,en operación,19,0,0
+TVL1,TERMOVALLE CC,termica,termica,en operación,237,5.422031,5.718817847
+TYP1,TERMOYOPAL 1,termica,termica,en operación,8,0.1896,0
+TYP2,TERMOYOPAL 2,termica,termica,en operación,28,0.528,0.5493759483
+TYP3,TERMOYOPAL G3,termica,termica,en operación,50,0.849922,1.186151457
+TYP4,TERMOYOPAL G4,termica,termica,en operación,50,1.037328,1.186151457
+TYP5,TERMOYOPAL G5,termica,termica,en operación,50,0.652148,1.186160882
+UNN1,UNION,hidraulica_menor,hidraulica,en operación,0.7,0,0
+URA1,URRA,hidraulica,hidraulica,en operación,338,2.089705,2.92614397
+USQ1,USAQUEN,hidraulica_menor,hidraulica,en operación,1.8,0,0.006451005161
+VEJA,VILLAVIEJA,solar,solar,"registrada en XM, sin pruebas",,0.3918,0
+VLT1,LA VUELTA,hidraulica_menor,hidraulica,en operación,11.6,0.039533,0.1564072258
+VNTA,VENTANA A,hidraulica_menor,hidraulica,en operación,2.5,0,0.04007110323
+VNTB,VENTANA B,hidraulica_menor,hidraulica,en operación,2.5,0,0
+VPAR,VALLEDUPAR ENEL,solar,solar,"registrada en XM, sin pruebas",,0.35894,0
+ZPA2,ZIPAEMG 2,termica,termica,en operación,36,0.43792,0.5330760152
+ZPA3,ZIPAEMG 3,termica,termica,en operación,63,0.869929,1.118546908
+ZPA4,ZIPAEMG 4,termica,termica,en operación,64,1.110062,1.16051902
+ZPA5,ZIPAEMG 5,termica,termica,en operación,63,0.860465,0.8922524023

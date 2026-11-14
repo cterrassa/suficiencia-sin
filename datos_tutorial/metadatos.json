@@ -1,0 +1,23 @@
+{
+  "mes_referencia": "2026-10",
+  "fecha_corte": "2026-11-04",
+  "moneda": {
+    "mes": "2026-10",
+    "trm": 3198.62,
+    "factor_cpi": 0.957370870748292
+  },
+  "penalidades": {
+    "costo_racionamiento_upme": {
+      "cop_kwh": 2572.52,
+      "usd_mwh": 769.9744616170086
+    },
+    "precio_escasez_superior": {
+      "cop_kwh": 1463.47977,
+      "usd_mwh": 438.03043241379413
+    },
+    "precio_escasez_inferior": {
+      "cop_kwh": 327.18793,
+      "usd_mwh": 97.92979267385036
+    }
+  }
+}
