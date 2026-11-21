@@ -11,10 +11,6 @@
       "cop_kwh": 2572.52,
       "usd_mwh": 769.9744616170086
     },
-    "precio_escasez_superior": {
-      "cop_kwh": 1463.47977,
-      "usd_mwh": 438.03043241379413
-    },
     "precio_escasez_inferior": {
       "cop_kwh": 327.18793,
       "usd_mwh": 97.92979267385036

@@ -1,0 +1,16 @@
+tecnologia,fase,plantas,meses_planta,factor_planta
+biomasa_bagazo,neutro,13,610,0.5548001677
+biomasa_bagazo,nina,12,307,0.5412631719
+biomasa_bagazo,nino,13,447,0.6006328642
+gas,neutro,35,1323,0.3209830404
+gas,nina,29,668,0.3350641548
+gas,nino,34,950,0.5005609229
+liquidos,neutro,8,272,0.1514043315
+liquidos,nina,8,146,0.220137294
+liquidos,nino,8,272,0.3132302643
+pch,neutro,127,6295,0.6146582874
+pch,nina,122,3128,0.6526298008
+pch,nino,128,4677,0.4874686657
+solar_fv,neutro,70,883,0.2405676432
+solar_fv,nina,17,203,0.2034232769
+solar_fv,nino,63,470,0.2533278305
